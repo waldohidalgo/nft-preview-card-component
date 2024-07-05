@@ -33,7 +33,11 @@ export default {
             </g>
           </svg>
         </div>
-        <img src="./assets/image-equilibrium.jpg" alt="image equilibrium" />
+        <img
+          src="./assets/image-equilibrium.jpg"
+          alt="image equilibrium"
+          class="w-full aspect-square"
+        />
       </div>
 
       <div class="pt-[21px]">
