@@ -82,7 +82,7 @@ export default {
         ></div>
         <div class="flex gap-4 mt-[15px] items-center sm:mt-[16px]">
           <img
-            class="w-[34px] border-[1px] border-white rounded-full"
+            class="w-[34px] aspect-square border-[1px] border-white rounded-full"
             src="./assets/image-avatar.png"
             alt="avatar"
           />
